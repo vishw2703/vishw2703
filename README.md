@@ -67,11 +67,11 @@
 <h2 align="center">My Music</h2>
 
 
-<div align="center">
+<div align="right">
   <a href="https://open.spotify.com/user/cq4r9wsvor6fjrt3ayh606hc2">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cq4r9wsvor6fjrt3ayh606hc2&count=5&unique=true&width=500" alt="Spotify recently played"  />
   </a>
-  <img height="500" width = '300' src="https://media1.tenor.com/m/MoTin70AuWsAAAAC/music-listen.gif" align = 'center'  />
+  <img height="500" width = '300' src="https://media1.tenor.com/m/MoTin70AuWsAAAAC/music-listen.gif" align = 'left'  />
 </div>
 
 ###
