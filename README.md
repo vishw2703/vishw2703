@@ -70,9 +70,7 @@
 <div align="right">
   <a href="https://open.spotify.com/user/cq4r9wsvor6fjrt3ayh606hc2">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=cq4r9wsvor6fjrt3ayh606hc2&count=5&unique=true&width=500" alt="Spotify recently played"  />
-    <div align="left">
-  <img height="200" src="https://media1.tenor.com/m/MoTin70AuWsAAAAC/music-listen.gif"  />
-</div>
+    <img height="200" src="https://media1.tenor.com/m/MoTin70AuWsAAAAC/music-listen.gif"  />
   </a>
 </div>
 
