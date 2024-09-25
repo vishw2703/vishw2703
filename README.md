@@ -66,15 +66,6 @@
 
 <h2 align="center">My Music</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/MoTin70AuWsAAAAC/music-listen.gif"  />
-</div>
-
-###
-
-<br clear="both">
 
 <div align="right">
   <a href="https://open.spotify.com/user/cq4r9wsvor6fjrt3ayh606hc2">
