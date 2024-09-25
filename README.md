@@ -12,8 +12,7 @@
 
 ###
 
-<h5 align="center">🔭 I’m currently working on Deep learning Projects<br><br>🌱 I’m currently learning AI/ML and Data Structures and Algorithms<br><br>📫 How to reach me vishw2734@proton.me<br><br>🌐 Check out my portfolio: vishwjoshi.netlify.app</h5>
-
+<h5 align="center">🔭 I’m currently working on Deep learning Projects<br><br>🌱 I’m currently learning AI/ML and Data Structures and Algorithms<br><br>
 ###
 
 <div align="left">
