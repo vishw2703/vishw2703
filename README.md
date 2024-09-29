@@ -59,7 +59,7 @@
 
 <br clear="both">
 <h2 align="center">My Contribution</h2>
-<img src="https://raw.githubusercontent.com/vishw2703/vishw2703/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/vishw2703/vishw2703/output/dist/snake.svg" />
 
 ###
 
