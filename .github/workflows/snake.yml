@@ -25,12 +25,12 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: snake.svg?palette=github-dark  # Saving directly in the root
+          outputs: ./snake.svg?palette=github-dark  # Store in the current directory
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: .  # Root directory
+          build_dir: .  # Root directory of the repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
