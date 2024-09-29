@@ -13,6 +13,7 @@
 ###
 
 <h5 align="center">🔭 I’m currently working on Deep learning Projects<br><br>🌱 I’m currently learning AI/ML and Data Structures and Algorithms<br><br>
+
 ###
 
 <div align="left">
@@ -59,7 +60,7 @@
 
 <br clear="both">
 <h2 align="center">My Contribution</h2>
-<img src="https://raw.githubusercontent.com/vishw2703/vishw2703/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/vishw2703/vishw2703/output/dist/snake.svg" />
 
 ###
 
